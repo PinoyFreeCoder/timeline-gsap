@@ -1,1 +1,1 @@
-# Timeline template using HTML,CSS,JavaScript and GSP library
+# Timeline template using HTML,CSS,JavaScript and GSAP library
